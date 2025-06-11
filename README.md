@@ -19,8 +19,8 @@ I’m a K–8 educator and Technology Coordinator with 15+ years of experience i
 
 ## 📂 Projects
 - **Tech Standards K–8** – (https://github.com/johnschleisCOG/k8-tech-standards)
-- **Curriculum Slide Library** – [link to new repo]
-- **Digital Citizenship Lessons** – [link to new repo]
+- **Curriculum Slide Library** – (https://github.com/johnschleisCOG/Curriculum-Slide-Library)
+- **Digital Citizenship Lessons** – (https://github.com/johnschleisCOG/Digital-Citizenship)
 
 ## 📜 Certifications
 - Google Certified Educator Level 1

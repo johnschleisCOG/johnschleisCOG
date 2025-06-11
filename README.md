@@ -18,7 +18,7 @@ I’m a K–8 educator and Technology Coordinator with 15+ years of experience i
 - Curriculum Design & Classroom Behavior Management
 
 ## 📂 Projects
-- **Tech Standards K–8** – [link to new repo]
+- **Tech Standards K–8** – (https://github.com/johnschleisCOG/k8-tech-standards)
 - **Curriculum Slide Library** – [link to new repo]
 - **Digital Citizenship Lessons** – [link to new repo]
 
